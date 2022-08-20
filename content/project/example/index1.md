@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Example Project 2
 summary: An demobuilt project page.
 tags:
   - Deep Learning

@@ -25,7 +25,7 @@ experience:
   - title: WebDev Team Head
     company: MtB Club IIT Mandi
     company_url: https://mtb.iitmandi.co.in/
-    company_logo: logo_mtb-01
+    company_logo: 
     location: Himachal Pradesh
     date_start: '2022-03-19'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Ride Coordinator
     company: MtB Club IIT Mandi
     company_url: https://mtb.iitmandi.co.in/
-    company_logo: logo_mtb-01
+    company_logo: 
     location: Himachal Pradesh
     date_start: '2022-03-19'
     date_end: ''
@@ -46,7 +46,7 @@ experience:
  - title: General Council Representative
     company: Student Gymkhana, IIT Mandi
     company_url: https://iitmandi.ac.in/
-    company_logo: logo_hires
+    company_logo: 
     location: Himachal Pradesh
     date_start: '2021-09-19'
     date_end: '2022-05-30'
@@ -55,7 +55,7 @@ experience:
  - title: Content Provider
     company: UGAC Social Media Team
     company_url: https://iitmandi.ac.in/
-    company_logo: logo_hires
+    company_logo: 
     location: Himachal Pradesh
     date_start: '2021-09-19'
     date_end: '2022-05-30'

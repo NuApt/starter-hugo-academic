@@ -37,7 +37,10 @@ feature:
     icon: terminal
     icon_pack: fas
     name: Web Dev 
-  
+  - description: 
+    icon: chart-network
+    icon_pack: fas
+    name: Analysis  
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

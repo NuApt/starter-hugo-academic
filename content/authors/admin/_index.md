@@ -53,8 +53,8 @@ social:
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
  - icon: ballot
-   icon_pack: fab
-   link: uploads/resume.pdf
+   icon_pack: fas
+   link: /uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

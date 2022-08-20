@@ -23,7 +23,7 @@ feature:
     name: Statistics
   - description: advanced
     icon: calculator
-    icon_pack: fab
+    icon_pack: fas
     name: Mathematical Problem Solving   
   - description: advanced
     icon: code
@@ -31,14 +31,14 @@ feature:
     name: C/C++, Python
   - description: 90%
     icon: git-alt
-    icon_pack: intermediate
+    icon_pack: fas
     name: Git
   - description: beginner
     icon: terminal
     icon_pack: fas
     name: Web Dev 
   - description: 
-    icon: chart-network
+    icon: chart-mixed
     icon_pack: fas
     name: Analysis  
   

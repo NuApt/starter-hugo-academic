@@ -25,15 +25,15 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
-    date_start: '2019'
-    description: Qualified for Indian National Mathematical Olypiad from KVS State
+    date_start: ''
+    description: Qualified for Indian National Mathematical Olypiad-2019 from KVS State
     organization: HBCSE
     organization_url: [Olympiad Conducting Body](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/)
     title: Indian Mathematical Olympiad
     url: ''
   - certificate_url: ''
     date_end: ''
-    date_start: '2017/2018/2019'
+    date_start: ''
     description: Qualified for Regional Mathematical Olympiad in 2017-2018-2019 from KVS State
     organization: HBCSE
     organization_url: [Olympiad Conducting Body](https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/)
@@ -41,15 +41,15 @@ item:
     url: ''
   - certificate_url: ''
     date_end: ''
-    date_start: '2017'
-    description: All India Rank -35
+    date_start: ''
+    description: All India Rank -35 in IMO-2017
     organization: Science Olympiad Foundation
     organization_url: [SOF](https://sofworld.org/imo)
     title: 'IM0-SOF'
     url: ''
   - certificate_url: ''
     date_end: ''
-    date_start: '2020'
+    date_start: ''
     description: Ranked in the All India Top 1% (amongst over 8,00,000 Candidates) in JEE-Main 2020
     organization: IIT Delhi
     organization_url: [JEE Advanced](https://jeeadv.ac.in/)
@@ -57,7 +57,7 @@ item:
     url: ''
   - certificate_url: ''
     date_end: ''
-    date_start: '2020'
+    date_start: ''
     description:  95% Aggregate in Physics, Chemistry and Mathematics IN AISSCE-2020
     organization: CBSE
     organization_url: [CBSE](https://www.cbse.gov.in/)
@@ -65,8 +65,8 @@ item:
     url: ''    
   - certificate_url: ''
     date_end: ''
-    date_start: '2020'
-    description:  96.2% in AISSE-2020, School Rank-1 at KVS Sabarmati and 100/100 score in "Science".
+    date_start: ''
+    description:  96.2% in AISSE-2018, School Rank-1 at KVS Sabarmati and 100/100 score in "Science".
     organization: CBSE
     organization_url: [CBSE](https://www.cbse.gov.in/)
     title: CBSE AISSE(10th)

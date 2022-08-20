@@ -54,7 +54,7 @@ social:
 # and uncomment the lines below.
  - icon: fab
    icon_pack: ballot
-#   link: static/uploads/resume.pdf
+   link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

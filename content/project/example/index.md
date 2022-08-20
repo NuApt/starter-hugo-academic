@@ -15,7 +15,13 @@ links:
     icon_pack: fab
     name: GitHub
     url: https://github.com/divyashk/tech-meet
-url_code: https://techmeet.iitmandi.co.in/
+
+  - icon: code
+    icon_pack: fas
+    name: Live App
+    url: https://techmeet.iitmandi.co.in/    
+    
+url_code: ''
 url_pdf: ''
 
 url_video: ''

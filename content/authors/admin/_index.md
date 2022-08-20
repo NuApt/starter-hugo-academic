@@ -40,10 +40,10 @@ social:
     link: mailto:b20056@students.iitmandi.ac.in
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/NuApt
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nikhil-ujjwal-iit/
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/nikhil.singhujjwal.1/

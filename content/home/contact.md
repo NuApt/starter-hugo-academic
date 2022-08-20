@@ -31,7 +31,7 @@ content:
     street: B-11, 007, Indian Institute of Technology(IIT)
     city: Mandi
     region: Himachal Pradesh
-    postcode: '94305'
+    postcode: '175005'
     country: India
     country_code: IN
   coordinates:

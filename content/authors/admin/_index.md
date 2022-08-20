@@ -63,8 +63,10 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a third year undergrad at Indian Institute of Technology Mandi, pursuing my bachelors in Computer Science and Engineering. Right from my school days, I am interested in studies and research related work in the field of Application of Maths. In my current bachelors' degree program I have developed a plethora of interests for research and studies in the field of Machine Learning, its implementation, and application in the diversified world, like automation, using optimized, efficient, and economical computing Algorithms and Systems. beside this I have learned ample theory courses related to Machine Learning, Theoretical Computer Science, Algorithms, and their applications. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Considering my interests, I have participated in various Hackathons as well as in INterIIT Tech meets, and grabbed a position as well.
+
+I feel blessed to possess an innate sense of creativity and passion for exploring new things across various domains. When I am not in campus, you can find me exploring the beauty of Himachal on my bicycle wheels!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

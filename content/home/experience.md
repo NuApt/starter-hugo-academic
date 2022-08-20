@@ -27,7 +27,7 @@ experience:
     company_url: https://mtb.iitmandi.co.in/
     company_logo: logo-mtb-01
     location: Himachal Pradesh
-    date_start: '2021-01-01'
+    date_start: '2022-03-19'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -35,14 +35,14 @@ experience:
         * Organising coordinated rides to various natural attractions, ensuring the fellow riders' safety.
         
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: General Council representative
+    company: Student Gymkhana
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: logo_hires
+    location: IIT Mandi, Himachal Pradesh
+    date_start: '2021-09-16'
+    date_end: '2022-06-01'
+    description: Established better communication among the college Administartion and students by addressing the grievances of stakeholders in pandemic. Handled major misunderstandings to further strengthen College-Student bonding.
 
 design:
   columns: '2'

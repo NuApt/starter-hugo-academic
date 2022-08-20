@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '31.708401'
     longitude: '76.932198'
-  directions: 
+  directions: https://www.google.com/maps/dir//31.7814128,76.997962/@31.781408,76.9629425,13z/data=!4m5!4m4!1m0!1m1!4e1!3e0
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'

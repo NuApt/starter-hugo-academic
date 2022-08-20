@@ -25,19 +25,19 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: b20056@students.iitmandi.ac.in
+  phone: +91 87917 61862
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
+    street: B-11, 007, Indian Institute of Technology(IIT)
+    city: Mandi
+    region: Himachal Pradesh
     postcode: '94305'
-    country: United States
-    country_code: US
+    country: India
+    country_code: IN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '31.708401'
+    longitude: '76.932198'
+  directions: [Click here](https://www.google.com/maps/dir//31.7814128,76.997962/@31.781408,76.9629425,13z/data=!4m5!4m4!1m0!1m1!4e1!3e0)
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'

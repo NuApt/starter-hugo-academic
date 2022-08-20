@@ -25,7 +25,7 @@ experience:
   - title: WebD Team Head & Ride Coordinator
     company: MtB Club, IIT Mandi
     company_url: https://mtb.iitmandi.co.in/
-    company_logo: logo-mtb-01
+    company_logo:
     location: Himachal Pradesh
     date_start: '2022-03-19'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: General Council representative
     company: Student Gymkhana
     company_url: ''
-    company_logo: logo_hires
+    company_logo:
     location: IIT Mandi, Himachal Pradesh
     date_start: '2021-09-16'
     date_end: '2022-06-01'

@@ -31,8 +31,8 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        * jhjkjb
-        * kbjb
+        * Maintaining and Developing the MtB Club Website regularly.
+        * Organising coordinated rides to various natural attractions, ensuring the fellow riders' safety.
         
 
   - title: Professor of Semiconductor Physics

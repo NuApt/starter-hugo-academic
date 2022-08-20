@@ -29,8 +29,10 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: InterIIT TechMeet
+      tag: InterIIT TechMeet
+    - name: Academic
+      tag: Academic
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

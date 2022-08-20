@@ -40,14 +40,11 @@ content:
   directions: https://www.google.com/maps/@31.7859508,76.9969434,14z
 
   contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Connect with me on LinkedIn
+      link: 'https://www.linkedin.com/in/nikhil-ujjwal-iit/'
+
 
 design:
   columns: '2'

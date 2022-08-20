@@ -29,8 +29,7 @@ experience:
     location: Himachal Pradesh
     date_start: '2021-01-01'
     date_end: ''
-    description:|2-
-        Responsibilities include:
+    description:|
         
 
   - title: Professor of Semiconductor Physics

@@ -31,7 +31,7 @@ feature:
     name: C/C++, Python
   - description: 90%
     icon: git-alt
-    icon_pack: fas
+    icon_pack: fab
     name: Git
   - description: beginner
     icon: terminal
@@ -39,7 +39,7 @@ feature:
     name: Web Dev 
   - description: 
     icon: chart-mixed
-    icon_pack: fas
+    icon_pack: fab
     name: Analysis  
   
 # Uncomment to use emoji icons.

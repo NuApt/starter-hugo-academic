@@ -22,23 +22,23 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: advanced
-    icon: function
-    icon_pack: fas
+    icon: calculator
+    icon_pack: fab
     name: Mathematical Problem Solving   
   - description: advanced
     icon: code
     icon_pack: fas
     name: C/C++, Python
   - description: 90%
-    icon: git
+    icon: git-alt
     icon_pack: intermediate
     name: Git
-
   - description: beginner
     icon: terminal
     icon_pack: fas
-    name: CLI (Win, Linux) 
-    
+    name: Web Dev 
+  
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

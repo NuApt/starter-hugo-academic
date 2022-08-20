@@ -38,8 +38,8 @@ feature:
     icon_pack: fas
     name: Web Dev 
   - description: 
-    icon: chart-mixed
-    icon_pack: fab
+    icon: chart-pie
+    icon_pack: fas
     name: Analysis  
   
 # Uncomment to use emoji icons.

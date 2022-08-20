@@ -31,6 +31,8 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
+        * jhjkjb
+        * kbjb
         
 
   - title: Professor of Semiconductor Physics

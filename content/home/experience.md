@@ -25,16 +25,13 @@ experience:
   - title: WebD Team Head & Ride Coordinator
     company: MtB Club, IIT Mandi
     company_url: https://mtb.iitmandi.co.in/
-    company_logo: org-gc
+    company_logo: 
     location: Himachal Pradesh
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
 
   - title: Professor of Semiconductor Physics
     company: University X

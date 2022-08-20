@@ -30,6 +30,7 @@ url_video: ''
 
 ---
 Nowadays, with the advent of Generative Adversarial Networks (GANs), there are lots of fake images and videos of people on the internet. These algorithms can generate very accurate and realistic looking images and videos. This is a big issue because it can be used to attack public figures, spread fake news, etc. So, to identify whether any particular piece of content is fake or not is an important problem that needs to be tackled.
-Created a Machine Learning model using CNN and achieved 80% accuracy to classify these images as real or fake.
+
+* Created a Machine Learning model using CNN and achieved 80% accuracy to classify these images as real or fake.
 * Led a team of 2 & Ranked 3rd among all the competitors in Intra-IIT competition.
 

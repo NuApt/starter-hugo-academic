@@ -51,8 +51,8 @@ item:
     date_end: ''
     date_start: '2020-06-03'
     description:  95% Aggregate in Physics, Chemistry and Mathematics.
-    organization: Kendriya Vidyalaya Sabarmati, Ahmedabad
-    organization_url: https://sabarmati.kvs.ac.in/
+    organization: Kendriya Vidyalaya ONGC CHandkheda, Ahmedabad
+    organization_url: https://ongcchandkheda.kvs.ac.in/
     title: 'CBSE AISSCE(Intermediate)'
     url: https://cbse.gov.in
   - certificate_url: ''
@@ -61,7 +61,7 @@ item:
     description:  96.2% score in AISSE-2017, with 100/100 in "Science" subject. School topper with School Rank-1.
     organization: Kendriya Vidyalaya Sabarmati, Ahmedabad
     organization_url: https://sabarmati.kvs.ac.in/
-    title: 'CBSE AISSCE(Intermediate)'
+    title: 'CBSE AISSE(Matriculation)'
     url: https://cbse.gov.in    
   - certificate_url: ''
     date_end: ''

@@ -29,7 +29,7 @@ feature:
     icon: code
     icon_pack: fas
     name: C/C++, Python
-  - description: 90%
+  - description: 
     icon: git-alt
     icon_pack: fab
     name: Git

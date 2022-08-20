@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:b20056@students.iitmandi.ac.in'
+    link: mailto:b20056@students.iitmandi.ac.in
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen

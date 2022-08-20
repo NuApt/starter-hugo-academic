@@ -29,7 +29,7 @@ item:
     description: Qualified for the Indian National Mathematical Olympiad-2019 from KVS State
     organization: HBCSE
     organization_url: ''
-    title: Neural Networks and Deep Learning
+    title: Indian National Mathematical Olympiad-2019
     url: ''
   - certificate_url: ''
     date_end: '2019-05-03'
@@ -37,7 +37,7 @@ item:
     description: Qualified for Regional Mathematical Olympiad cinducted by HBCSE-TIFR in 2017/2018/2019.
     organization: HBCSE-TIFR
     organization_url: https://olympiads.hbcse.tifr.res.in/about-olympiads/stages/mathematical-olympiad/
-    title: Blockchain Fundamentals
+    title: Regional Mathematical Olympiad-2017/2018/2019.
     url: ''
   - certificate_url: ''
     date_end: ''
@@ -47,6 +47,16 @@ item:
     organization_url: https://sofworld.org/imo
     title: 'IMO-SOF'
     url: https://sofworld.org/imo
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2017-07-01'
+    description: ''
+    organization: Secured All India Rank 35 in IMO-SOF, 2017.
+    organization_url: https://sofworld.org/imo
+    title: 'IMO-SOF'
+    url: https://sofworld.org/imo    
+    
+    
 
 design:
   columns: '2'

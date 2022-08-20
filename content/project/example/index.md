@@ -3,6 +3,7 @@ title: Mercari’s Large Scale System Design Hackathon
 summary: A Hospital management system | InterIIT Tech Meet 10.0 IIT Kharagpur
 tags:
   - Hackathon
+  - InterIIT TechMeet
 date: '2022-04-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -63,7 +63,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a third year undergrad at Indian Institute of Technology Mandi, pursuing my bachelors in Computer Science and Engineering. Right from my school days, I am interested in studies and research related work in the field of Application of Maths. In my current bachelors' degree program I have developed a plethora of interests in the field of Machine Learning, its implementation, and application in the diversified world. Beside this I have learned ample theory courses related to Machine Learning, Theoretical Computer Science, Algorithms, and their applications. Considering my interests, I have participated in various Hackathons as well as in InterIIT Tech meets, and grabbed a position as well.
+I am a third year undergrad at Indian Institute of Technology Mandi, pursuing my bachelors in Computer Science and Engineering. Right from my school days, I am interested in studies and research related work in the field of Application of Maths. In my current bachelors' degree program I have developed a plethora of interests in the field of Machine Learning, its implementation, and application in the diversified world. Beside this I have learned ample theory courses related to Machine Learning, Theoretical Computer Science, Algorithms, and their applications. Considering my interests, I have participated in various Hackathons as well as in InterIIT Tech meets, and grabbed positions as well.
 
 I feel blessed to possess an innate sense of creativity and passion for exploring new things across various domains. When I am not in campus, you can find me exploring Himachal (& myself inturn!) on my wheels!
 

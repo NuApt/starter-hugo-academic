@@ -6,7 +6,7 @@ tags:
 date: '2022-04-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://techmeet.iitmandi.co.in/
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -17,7 +17,7 @@ links:
     icon_pack: fab
     name: GitHub
     url: https://github.com/divyashk/tech-meet
-url_code: ''
+url_code: https://techmeet.iitmandi.co.in/
 url_pdf: ''
 url_slides: ''
 url_video: ''

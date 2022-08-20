@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Mercari’s Large Scale System Design Hackathon
+summary: A Hospital management system | InterIIT Tech Meet 10.0 IIT Kharagpur
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Hackathon
+date: '2022-04-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

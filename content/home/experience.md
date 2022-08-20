@@ -29,8 +29,7 @@ experience:
     location: Himachal Pradesh
     date_start: '2022-03-19'
     date_end: ''
-    description: |2-
-        Currently working to redevelop the MtB(Mount-terrain Biking) Club website of IIT Mandi.
+    description: Currently working to redevelop the MtB(Mount-terrain Biking) Club website of IIT Mandi.
 
   - title: Ride Coordinator
     company: MtB Club IIT Mandi

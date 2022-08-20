@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: WebD Team Head & Ride Coordinator
     company: MtB Club, IIT Mandi
-    company_url: ''
+    company_url: https://mtb.iitmandi.co.in/
     company_logo: org-gc
     location: Himachal Pradesh
     date_start: '2021-01-01'

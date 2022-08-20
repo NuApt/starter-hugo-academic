@@ -11,7 +11,7 @@ external_link: ''
 
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
     name: GitHub
     url: https://github.com/divyashk/tech-meet

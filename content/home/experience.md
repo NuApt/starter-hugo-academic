@@ -29,8 +29,11 @@ experience:
     location: Himachal Pradesh
     date_start: '2021-01-01'
     date_end: ''
-    description:
+    description:|2-
         Responsibilities include:
+        
+        * Currently working to redevelop the MTB(Mount-terrain Biking) Club website of IIT Mandi.
+        * Coordinated a 3-Day Bicycle Ride from IIT Mandi North Campus to Rohtang Pass, covering 317 Kms in 3 days on bicycle.
         
 
   - title: Professor of Semiconductor Physics

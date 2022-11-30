@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '31.708401'
     longitude: '76.932198'
-  directions: https://www.google.com/maps/@31.7859508,76.9969434,14z
+  directions: https://www.google.com/maps/@31.781604,76.9980351,19z
 
   contact_links:
     - icon: linkedin
